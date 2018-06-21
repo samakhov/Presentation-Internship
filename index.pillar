@@ -1,4 +1,104 @@
-${slide:First slide}$
+${slide:Plan}$
+
+${columns}$
+
+${column:50}$
+
+- Context
+- Problems
+- Proposed solutions
+- Technologies
+- Demo
+- Next Steps
+
+${column:50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:Context}$
+
+${columns}$
+
+${column:50}$
+
+- First column
+
+${column:50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:Problems}$
+
+${columns}$
+
+${column:50}$
+
+- First column
+
+${column:50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:Proposed solutions}$
+
+${columns}$
+
+${column:50}$
+
+- First column
+
+${column:50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:Technologies}$
+
+${columns}$
+
+${column:50}$
+
+- First column
+
+${column:50}$
+
+- Second column
+
+${endColumns}$
+
+
+${slide:Demo}$
+
+${columns}$
+
+${column:50}$
+
+- First column
+
+${column:50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:Next Steps}$
 
 ${columns}$
 
