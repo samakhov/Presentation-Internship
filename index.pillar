@@ -12,10 +12,6 @@ ${column:width=100}$
 - Demo
 - Next Steps
 
-${column:width=50}$
-
-- Second column
-
 ${endColumns}$
 
 
