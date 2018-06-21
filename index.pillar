@@ -16,17 +16,12 @@ ${endColumns}$
 
 
 
-${slide:title=Context}$
+${slide:title=Context|label=Pillar}$
 
 ${columns}$
 
-${column:width=50}$
-
-- First column
-
-${column:width=50}$
-
-- Second column
+${column:width=100}$
+!! Pil
 
 ${endColumns}$
 
