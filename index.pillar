@@ -21,9 +21,22 @@ ${slide:title=Context|label=Pillar}$
 ${columns}$
 !!! Pillar
 
-${column:width=100}$
+${column:width=50}$
 
-- A tool
+- Markup Syntax
+- Associated Tools
+- Write One Time
+- Generate as you want
+- In Html, Pdf, Epub, ...
+- For writing books, presentations, documentation ...
+
+${column:width=50}$
+
+[[[
+!! A title
+""bold""
+''italic''
+]]]
 
 ${endColumns}$
 
