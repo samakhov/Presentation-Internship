@@ -1,12 +1,113 @@
-${slide:First slide}$
+
+${slide:title=Plan}$
 
 ${columns}$
 
-${column:50}$
+${column:width=100}$
+
+- Context
+- Problems
+- Proposed solutions
+- Technologies
+- Demo
+- Next Steps
+
+${column:width=50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:title=Context}$
+
+${columns}$
+
+${column:width=50}$
 
 - First column
 
-${column:50}$
+${column:width=50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:title=Problems}$
+
+${columns}$
+
+${column:width=50}$
+
+- First column
+
+${column:width=50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:title=Proposed solutions}$
+
+${columns}$
+
+${column:width=50}$
+
+- First column
+
+${column:width=50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:title=Technologies}$
+
+${columns}$
+
+${column:width=50}$
+
+- First column
+
+${column:width=50}$
+
+- Second column
+
+${endColumns}$
+
+
+${slide:title=Demo}$
+
+${columns}$
+
+${column:width=50}$
+
+- First column
+
+${column:width=50}$
+
+- Second column
+
+${endColumns}$
+
+
+
+${slide:title=Next Steps}$
+
+${columns}$
+
+${column:width=50}$
+
+- First column
+
+${column:width=50}$
 
 - Second column
 
