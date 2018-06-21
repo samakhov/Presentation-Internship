@@ -19,9 +19,11 @@ ${endColumns}$
 ${slide:title=Context|label=Pillar}$
 
 ${columns}$
+!!! Pillar
 
 ${column:width=100}$
-!! Pil
+
+- A tool
 
 ${endColumns}$
 
@@ -31,13 +33,10 @@ ${slide:title=Problems}$
 
 ${columns}$
 
-${column:width=50}$
+${column:width=100}$
 
-- First column
+What was done !?
 
-${column:width=50}$
-
-- Second column
 
 ${endColumns}$
 
