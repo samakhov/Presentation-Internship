@@ -33,9 +33,27 @@ ${column:width=50}$
 ${column:width=50}$
 
 [[[
-!! A title
-""bold""
-''italic''
+
+!! Quelques éléments de syntaxe
+%Je suis un commentaire
+Je serais en ""Gras""
+Moi par contre je serais en ''italique''
+__souligné__ comme moi
+@Moi je serais une ancre
+Et *@Moi* je serais une ancre vers Moi
+Avec ça *Asbath>www.samakhov.github.io*
+Tu vas sur ma page web
+!!! je suis bien sûr un titre mais de niveau 3
+Je suis un programmeur C, mon code se trouve ici
+[[[
+Int var = 3;
+call_my_function(var);
+]]]
+Bom mon rapport est à votre disposition
+${inputFile:RapportBiyalou.pdf}$
+@@note : ce ne sont que quelques éléments
+
+
 ]]]
 
 ${endColumns}$
