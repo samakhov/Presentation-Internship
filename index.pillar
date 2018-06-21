@@ -54,7 +54,17 @@ ${columns}$
 
 ${column:width=100}$
 
-What was done !?
+What was going wrong !?
+
+- Html templates were not in good states : 
+- No table of contents
+- Ugly css
+- No easy hosting
+- No blogging support
+- Everything was regenerated every time, not practical for big documents
+- Errors are sometimes cryptic
+- Warnings are almost not existant
+
 
 
 ${endColumns}$
